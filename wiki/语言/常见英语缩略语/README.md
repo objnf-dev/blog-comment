@@ -1,0 +1,53 @@
+---
+type: page
+date: 2023-09-17 0:00
+updated: 2023-09-17 0:00
+title: 常见英语缩略语
+---
+
+- w.r.t：`with reference to`。也写作WRT或w/r/t或r/t。“至于说...；关于...；对...来说”。 
+  - 例：`WRT the docs, there's an issue.` 至于那些文档，其中有个问题。
+- LGTM：`looks good to me`。“（对我来说）看起来不错”。 
+  - 例：`The codes LGTM.` 这些代码我觉得不错。
+  - 类似的缩写还有SGTM：`sounds good to me`。
+- OOO：`out of office`。“不在办公室”。 
+  - 例：`I'm OOO right now.` 我现在不在办公室。
+- NB：`Nota Bene`。“特别注意；重点”。 
+  - 例：`NB: This file is highly confidential.` 注意：这份文件是高度机密的。
+- WFH：`work from home`。“在家办公”。
+- FYI：`for your information`。“供参考”。
+- BS：`brain storming`。“头脑风暴”。
+- TBD：`to be decided`。“待定”。
+- Q1：`quarter 1`。“第一季度”。
+- FY2022：`fiscal year 2022`。“2022财年”。
+- W/O：`without`。“缺少...；没有...”。
+- PLS：`please`。“请...”。
+- thx：`thanks`。“感谢”。
+- idk：`I don't know`。“我不知道”。
+- idc：`I don't care`。“我不管；我不关心”。
+- lol：`laughing out loud`。“笑出声”。
+- lmao：`laughing my ass off`。“笑死我了”。
+- RSVP：`Répondez s'il vous plaît`。“请回复”。
+- TL;DR：`Too long; Didn't read`。“太长不看；太长没有看”。
+- PS：`postscript`。“注；附言”。
+- CC：`carbon copy`。“抄送；复写”。
+- LMK：`let me know`。“告知我；让我知道”。
+- ASAP：`as soon as possible`。“尽快”。
+- NRN：`no reply necessary`。“不必回复”。
+- EOM：`end of message`。“消息结尾”。
+- BRB：`be right back`。“很快回来”。
+- NSFW：`not safe for work`。“工作不宜；少儿不宜”
+- LLC：`Limited Liability Company`。“（美国）有限责任公司”
+- GmbH：`Gesellschaft mit beschrankter Haftung`。“（德国、奥地利等）有限责任公司”
+- DevOps：`Development Operations`。
+- CTO：`Configure to Order`。客制化。
+- X2Y 
+  - 2：`to`，谐音
+  - G：`Government`，政府
+  - E：`Employee`，职工/雇员
+  - C：`Costumer`，消费者
+  - B：`Business`，商业/公司
+  - 例子
+  - B2C：`Business to Costumer`，即公司给消费者提供服务。公司生产产品供消费者购买使用属于此类。
+  - B2B：`Business to Business`，即公司给公司提供服务。原材料公司将产品进行粗加工后提供给其他公司做精细加工属于此类。
+  - B2G：`Business to Government`，即公司给政府提供服务。云计算公司给政府提供云计算基础设施属于此类。
